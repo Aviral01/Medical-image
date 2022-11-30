@@ -1,4 +1,4 @@
-#Medical Image
+# Medical Image
 Digital pathology has emerged with the digitization of patient tissue samples and in particular
 the use of digital whole slide images (WSIs). Image analysis of WSIs (Whole Slide Images),
 promises to play an important role in helping the pathologists by indicating potential disease
