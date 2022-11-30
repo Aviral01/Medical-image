@@ -13,15 +13,15 @@ same tissue of two images might appear different. Segmentation is used in these 
 localize the object. However, due to very less variations in the images visually, it becomes
 difficult to classify objects and localize them.
 
-#Data Provided
+# Data Provided
 Link to Data:
-Link_to_data
+https://drive.google.com/drive/folders/1YOR8wBtvl1V0757qGZpNMcUc3FyB2oiI
 Data is present in a folder called, assignment data.
-Inside that folder first folder is whole slide images, in which two whole slides images are
+## Inside that folder first folder is whole slide images, in which two whole slides images are
 present.
 1. Normal lymph node with an extension of .svs.
 2. Reactive lymph node with an extension of .svs.
 Any of them can be used for task 1 and 2.
-These are the following tasks that one may need to complete with python:
+## These are the following tasks that one may need to complete with python:
 1. Break the Whole Slide Image into tiles or patches(must include more tissue content).
 2. Perform image processing, such that resultant sample from two slides are visually same.
